@@ -30,7 +30,7 @@ public class MappingProcessor extends AbstractProcessor {
 
     @Override
     public Set<String> getSupportedAnnotationTypes() {
-        return Collections.singleton("org.mvnsearch.Mapping");
+        return Collections.singleton(Mapping.class.getCanonicalName());
     }
 
     @Override
