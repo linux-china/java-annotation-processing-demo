@@ -5,6 +5,7 @@ Java Annotation Processing Demo
 
 ### Code Generation
 
+* Project Lombok: https://projectlombok.org/
 * Directory for code generation: target/generated-sources/annotations, target/generated-resources/annotations
 
 ### Code checker
