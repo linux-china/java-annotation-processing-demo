@@ -14,10 +14,10 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <tools.gem.version>1.0.0.Alpha2</tools.gem.version>
-        <google-auto-service.version>1.0-rc6</google-auto-service.version>
+        <google-auto-service.version>1.0-rc7</google-auto-service.version>
         <joor.version>0.9.13</joor.version>
-        <junit5.version>5.6.2</junit5.version>
-        <javapoet.version>1.12.1</javapoet.version>
+        <junit5.version>5.7.0</junit5.version>
+        <javapoet.version>1.13.0</javapoet.version>
     </properties>
 
     <modules>
@@ -39,7 +39,7 @@
         <dependency>
             <groupId>org.assertj</groupId>
             <artifactId>assertj-core</artifactId>
-            <version>3.16.0</version>
+            <version>3.17.2</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
